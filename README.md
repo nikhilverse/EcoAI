@@ -153,25 +153,6 @@ python EcoAI.py
 
 ---
 
-## 📷 Project Visualizations
-
-### Correlation Heatmap
-
-![Correlation Heatmap](images/Correlation%20heatmap.png)
-
-### Feature Importance
-
-![Feature Importance](images/Feature%20importance%20plot.png)
-
-### Actual vs Predicted
-
-![Actual vs Predicted](images/Actual%20values%20vs%20Predicted%20Value.png)
-
-### Top 10 Countries by Renewable Resource Share
-
-![Top 10 Countries](images/Top%2010%20country%20shares%20renewable%20resource.png)
-
----
 
 ## 🔮 Future Scope
 
